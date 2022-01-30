@@ -18,3 +18,7 @@ astra.db:
   region: <db-region>
   keyspace: <keyspace-name>
   application.token: <db token>
+
+datadump.location:
+  author: <author dump file loation>
+  works: <books dump file location>
